@@ -35,6 +35,5 @@ Install packages: `npm install`
 
 Build project:`npm start`
 
-Open your browser at: `http://localhost:3000`
 
 
