@@ -3,8 +3,6 @@ A Responsive real-like Tesla Clone created with ReactJs,React-router, Firebase f
 
 https://user-images.githubusercontent.com/76790227/150206550-f521be54-67bb-4288-b712-a9c24b82f57e.mp4
 
-## Live Demo 
-<a href='https://tesla-clone-1000.web.app/' target="_blank">Tesla-Clone</a>
 
 ## Features
 --> Active navbar similar to original
@@ -39,5 +37,4 @@ Build project:`npm start`
 
 Open your browser at: `http://localhost:3000`
 
-## Contacts
-<a href="https://www.linkedin.com/in/chirag-chouhan-b48311228/" target="_blank"></i>LinkedIn</a>
+
