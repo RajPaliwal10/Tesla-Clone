@@ -36,4 +36,5 @@ Install packages: `npm install`
 Build project:`npm start`
 
 
+I watched a bunch of youtube videos from channels like Clever Programmer, Web dev Simplified and React Documentations to make this app.
 
